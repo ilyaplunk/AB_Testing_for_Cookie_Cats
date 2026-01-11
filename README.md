@@ -2,3 +2,5 @@
 
 # **A/B Testing for Cookie Cats**
 
+Daset from Kaggle: https://www.kaggle.com/datasets/yufengsui/mobile-games-ab-testing
+
